@@ -8,9 +8,9 @@
 
 # Duplicate Tab
   
-Duplicate Tab is a Safari Extension for iOS & iPadOS 15+ that makes duplicating tabs a breeze.
+**Duplicate Tab is a Safari Extension for iOS & iPadOS 15+**
   
-[View on the App Store ↗︎](https://apps.apple.com/us/app/duplicate-tab/id1588020772)
+[Check it out on the App Store 🔗](https://apps.apple.com/us/app/duplicate-tab/id1588020772)
   
 </div>
 
