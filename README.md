@@ -8,7 +8,7 @@
 
 # Duplicate Tab
   
-### Safari Extension for iOS & iPadOS 15+
+### Safari Extension for iOS & iPadOS
   
 [Check it out on the App Store 🔗](https://apps.apple.com/us/app/duplicate-tab/id1588020772)
   
