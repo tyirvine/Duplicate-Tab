@@ -3,12 +3,12 @@
 <!-- Title -->
 <div align="center">
 
-<img width="100" alt="Screen Shot 2021-10-07 at 4 51 11 PM" src="https://user-images.githubusercontent.com/39813066/136472904-d5236be3-c5f4-46d7-a3d2-a19a1e3fb583.png">
+<img width="90" alt="Screen Shot 2021-10-07 at 4 51 11 PM" src="https://user-images.githubusercontent.com/39813066/136472904-d5236be3-c5f4-46d7-a3d2-a19a1e3fb583.png">
 
 
 # Duplicate Tab
   
-**Duplicate Tab is a Safari Extension for iOS & iPadOS 15+**
+### Safari Extension for iOS & iPadOS 15+
   
 [Check it out on the App Store 🔗](https://apps.apple.com/us/app/duplicate-tab/id1588020772)
   
