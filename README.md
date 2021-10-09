@@ -7,6 +7,10 @@ Duplicate Tab is a Safari Extension for iOS and iPadOS that makes duplicating ta
 Duplicate Tab does not collect and/or transmit any data period. Duplicate Tab locally saves (on your device) whether or not you've made a tip in [User Defaults](https://developer.apple.com/documentation/foundation/userdefaults).\*  That is the only information handled and saved.
 
 ## Questions  💭
+
+### How does it work?
+Checkout [`background.js`](https://github.com/tyirvine/Duplicate-Tab/blob/main/Duplicate%20Tab%20Extension/Resources/background.js) - [`tabs.duplicate()`](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/tabs/duplicate) takes in the tab id of the active tab and duplicates it.
+
 ### Why open source?
 Following in the footsteps of [Amplosion](https://github.com/christianselig/Amplosion), I decided to show the source of this app so that people could see for themselves that nothing suspicious was going on. Not all parts of the app are included to prevent against people reuploading this app to the App Store with their name on it and the same icon.
 
