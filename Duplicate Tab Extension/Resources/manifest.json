@@ -3,13 +3,18 @@
     "default_locale": "en",
 
     "name": "Duplicate Tab",
-    "description": "Duplicates the active tab. If you have privacy concerns you can view the app's source on GitHub.",
+    "description": "Duplicates the current tab when pressed or when using a shortcut. Source available on GitHub.",
     "version": "0.1",
 
     "background": {
-        "scripts": [ "background.js" ],
+        "scripts": [ "background.js", "lodash.js" ],
         "persistent": false
     },
+
+    "content_scripts": [{
+        "js": [ "content.js" ],
+        "matches": [ "<all_urls>" ]
+    }],
 
 	"icons": {
 		"48": "images/icon-48.png",
@@ -28,5 +33,5 @@
         }
     },
 
-    "permissions": [ "activeTab" ]
+    "permissions": [ "tabs", "nativeMessaging", "storage" ]
 }
