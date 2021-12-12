@@ -6,7 +6,19 @@ Duplicate Tab is a Safari Extension for iOS and iPadOS that makes duplicating ta
 ## Privacy Policy  🔒
 Duplicate Tab does not collect and/or transmit any data period. Duplicate Tab locally (on your device) saves settings, such as app icon choice, and shortcut preference in [User Defaults](https://developer.apple.com/documentation/foundation/userdefaults).\*  That is the only information handled and saved.
 
-## Questions  💭
+## Frequently Asked Questions  💭
+
+### How do I use the extension?
+To duplicate a tab, simply tap the extension button from the Safari extension menu.
+
+### How do I change the keyboard shortcut?
+Simply tap on the shortcut button inside of the app, and a menu will appear that will let you change it.
+
+Keep in mind ⤵︎
+* <kbd>⌘ + D</kbd> - Adds a bookmark in Safari.
+* <kbd>⌘ + option + D</kbd> - Opens dock on iPad.
+* <kbd>⌘ + shift + D</kbd> - Adds a page to your reading list in Safari.
+* <kbd>control + D</kbd> - Deletes forwards.
 
 ### How does it work?
 Checkout [`background.js`](https://github.com/tyirvine/Duplicate-Tab/blob/main/Duplicate%20Tab%20Extension/Resources/background.js) - [`tabs.duplicate()`](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/tabs/duplicate) takes in the tab id of the active tab and duplicates it.
