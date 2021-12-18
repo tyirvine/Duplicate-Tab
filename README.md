@@ -1,7 +1,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/39813066/146625857-e20eb905-2d1e-4e21-a212-f02209366c81.png" width="120px" align="left"/>
+<img src="https://user-images.githubusercontent.com/39813066/146625857-e20eb905-2d1e-4e21-a212-f02209366c81.png" width="80px" align="top"/>
 
 <div>
   <h1>Duplicate Tab</h1>
