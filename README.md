@@ -1,17 +1,14 @@
-<div align="center">
 
-<p align="center"><img src="https://user-images.githubusercontent.com/39813066/146625069-06d2ad71-4a47-4b9c-88af-cdee15f822cf.png" width="100px"></p>
 
-# Duplicate Tab
+<img src="https://user-images.githubusercontent.com/39813066/146625069-06d2ad71-4a47-4b9c-88af-cdee15f822cf.png" width="160px" align="left"/>
+
+<div>
+  <h1>Duplicate Tab</h1>
 Duplicate Tab is a Safari Extension for iOS and iPadOS that makes duplicating tabs in Safari much easier!
-[Check it out on the App Store](https://apple.co/3myj6O0)
-
-<p align="center"><img src="https://user-images.githubusercontent.com/39813066/146625086-6c1c3daa-9917-4cd3-a3a9-220fa3a1c4bb.png" width="700px"></p>
-
+  <a href="https://apple.co/3myj6O0">Check it out on the App Store ↗︎</a>
 </div>
 
 <br>
-
 
 ## Privacy Policy  🔒
 Duplicate Tab does not collect and/or transmit any data period. Duplicate Tab locally (on your device) saves settings, such as app icon choice, and shortcut preference in [User Defaults](https://developer.apple.com/documentation/foundation/userdefaults).\*  That is the only information handled and saved.
