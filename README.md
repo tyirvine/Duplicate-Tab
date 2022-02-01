@@ -10,7 +10,7 @@ Duplicate Tab is a Safari Extension for iOS and iPadOS that makes duplicating ta
 </div>
 
 ## What is this? 💭
-Welcome! This is a repository dedicated to tracking bugs, feature requests, and anything else releated to the iOS app [Duplicate Tab](https://apple.co/3myj600). Some of Informant's code can be viewed here as well.
+Welcome! This is a repository dedicated to tracking bugs, feature requests, and anything else releated to the iOS app [Duplicate Tab](https://apple.co/3myj600). Some of Duplicate Tab's code can be viewed here as well.
 
 ## Feedback 📣
 If you have feedback simply create a [new issue](/issues/new/choose) and you'll have the option of creating either a feature request or bug report.
