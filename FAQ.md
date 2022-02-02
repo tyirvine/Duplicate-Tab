@@ -15,7 +15,7 @@ Keep in mind ⤵︎
 
 ### How does it work?
 
-Checkout [`background.js`](https://github.com/tyirvine/Duplicate-Tab/blob/main/Duplicate%20Tab%20Extension/Resources/background.js). The function [`tabs.duplicate()`](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/tabs/duplicate) takes in the tab id of the active tab and duplicates it.
+Checkout [`background.js`](https://github.com/cocoasoftworks/Duplicate-Tab/blob/main/Duplicate%20Tab%20Extension/Resources/background.js). The function [`tabs.duplicate()`](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/tabs/duplicate) takes in the tab id of the active tab and duplicates it.
 
 ### Why open source?
 
@@ -27,7 +27,7 @@ It isn't. This is an older version of the source. The version uploaded to the Ap
 
 ### I have feedback!
 
-If you've found a bug or have a feature request please create a [new issue](/issues/new/choose) and we'll get right on it!
+If you've found a bug or have a feature request please create a [new issue](https://github.com/cocoasoftworks/Duplicate-Tab/issues/new/choose) and we'll get right on it!
 
 ### License 🚫
 
