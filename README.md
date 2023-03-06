@@ -10,6 +10,9 @@ Duplicate Tab is a Safari Extension for iOS and iPadOS that makes duplicating ta
 
 <br>
 
+<img width="2059" alt="iPhone-6 5-Collage" src="https://user-images.githubusercontent.com/39813066/223225207-1a870de9-a4c9-4fe8-9484-d0c4ab75eaf4.png">
+
+
 ## Privacy Policy  🔒
 Duplicate Tab does not collect and/or transmit any data period. Duplicate Tab locally (on your device) saves settings, such as app icon choice, and shortcut preference in [User Defaults](https://developer.apple.com/documentation/foundation/userdefaults).\*  That is the only information handled and saved.
 
